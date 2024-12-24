@@ -1,0 +1,26 @@
+body{
+ 
+    background-image: url('https://t3.ftcdn.net/jpg/07/32/60/80/240_F_732608099_NP9dDYO2qUajpmPhfizzQDifWEUoifW4.jpg');
+    background-size: cover;
+}
+h1{
+    color: blue;
+}
+p{
+    color: rgb(26, 93, 209);
+}
+.container-fluid{
+    background-color: orange
+
+    
+
+}
+.form-label{
+    color: white;
+}
+.container h2{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 35px;
+}
